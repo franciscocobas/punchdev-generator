@@ -1,8 +1,8 @@
 {
-  "name": "generator-goncy",
-  "version": "1.1.10",
-  "description": "Goncy generator",
-  "author": "goncy",
+  "name": "generator-punchdev",
+  "version": "1.0.0",
+  "description": "punchdev based no Goncy Generator",
+  "author": "Francisco Cobas",
   "license": "ISC",
   "files": [
     "generators"

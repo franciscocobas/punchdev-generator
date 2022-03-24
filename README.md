@@ -1,20 +1,18 @@
-# Yeoman Goncy generator
+
+# Yeoman _punchdev_ generator 👊🏼
 Yeoman generator for eslint and react things
+
+# This is a fork of the [Yeoman Goncy Version](https://github.com/goncy/generator) thank you a lot! 
+I recommend you to follow him on [Twitter](https://twitter.com/goncy/).
 
 ## Generators
 ```
-yo goncy:dva
-yo goncy:eslint-node
-yo goncy:eslint-react
-yo goncy:eslint-svelte
-yo goncy:eslint-vue
-yo goncy:firebase-auth
-yo goncy:plop-react
-yo goncy:redux
-yo goncy:redux-saga
-yo goncy:redux-services
-yo goncy:root-provider
-yo goncy:root-routes
-yo goncy:snippets-react
-yo goncy:tailwind
+yo punchdev:nodejs
+yo punchdev:react
 ```
+
+## Link generators
+```
+npm link
+```
+More info here: [Doc](https://yeoman.io/authoring/index.html).

@@ -20,8 +20,4 @@ module.exports = class extends Generator {
   eslint() {
     this.fs.copy(this.templatePath(".eslintrc"), this.destinationPath(".eslintrc"));
   }
-
-  eslintIgnore() {
-    this.fs.copy(this.templatePath(".eslintignore"), this.destinationPath(".eslintignore"));
-  }
 };
